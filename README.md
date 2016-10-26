@@ -22,4 +22,4 @@ Currently addressed issues are:
 
 # Projects using idasix
 
-1. [[REmatch](https://github.com/nirizr/rematch)]
+1. [[REmatch](https://github.com/nirizr/rematch)] - A binary matching framework that actually works.
